@@ -1,4 +1,5 @@
 # Steps to start documenting the equipment/design you found and chose 
+[See this documentation example](https://github.com/CombatCovid/medical-shields-for-3d-printing). You can also download it to see the final result.
 1. Download or clone this template to start documenting easily
 2. Fill in the source files like STLS, CAD, etc inside
 
@@ -9,6 +10,7 @@
 If this part becomes difficult ask for help here in the [`#how-to-document-designs` channel ](https://discord.gg/QrAyWF)
 
 # Pasos para comenzar a documentar el equipo / diseño que encontró y eligió
+[Vea este ejemplo de documentación](https://github.com/CombatCovid/medical-shields-for-3d-printing). Puede tambien descargar este ejemplo.
 1. Descargue o clone esta plantilla para comenzar a documentar fácilmente
 2. Complete los archivos de origen como STLS, CAD, etc. dentro
 
