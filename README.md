@@ -5,7 +5,7 @@ description: >
 keywords:
   - covid-19
   - medical equipment
-project-link: https://e-vent.mit.edu/
+project-link: put the link to the project
 made: true
 made-independently: false
 license:
